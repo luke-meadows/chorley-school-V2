@@ -5,10 +5,10 @@ export default function Hero() {
   return (
     <div className="relative h-[80vh] w-[100vw] px-0 sm:px-24">
       <div className="z-10 relative flex flex-col justify-between h-full">
-        <h2 className="text-xl text-center py-8 bg-black bg-transparent/60 px-3 sm:px-24 md:text-2xl">
+        <h2 className="text-xl text-center py-3 md:py-8 bg-black bg-transparent/60 px-3 sm:px-24 md:text-2xl">
           The dance school with a modern and exciting approach to dance!
         </h2>
-        <p className=" bg-black bg-transparent/80 px-3 sm:px-24 py-8 text-sm font-normal leading-8 md:text-xl">
+        <p className=" bg-black bg-transparent/80 px-3 sm:px-24  py-3 md:py-8 text-sm font-normal leading-8 md:text-xl">
           The Chorley School of Dance is based at{' '}
           <span className="text-theme-yellow">
             Wyken Community Centre, Westmorland Road, Wyken, Coventry, CV2 5PY
