@@ -26,9 +26,9 @@ export default function Principal() {
           <p>
             Claire&apos;s pupils all compete in Festivals three times a year and
             regularly win numerous medals and trophies. She never picks her
-            "best" pupils to take part in competitions and shows. She firmly
-            believes all children, regardless of their talent, should be given
-            the opportunity to perform in front of an audience.
+            &quot;best&quot; pupils to take part in competitions and shows. She
+            firmly believes all children, regardless of their talent, should be
+            given the opportunity to perform in front of an audience.
           </p>
           <p>
             Claire works hard to instil confidence into all her pupils and
