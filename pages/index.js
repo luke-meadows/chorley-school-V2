@@ -6,12 +6,10 @@ import Header from '../components/Header';
 
 import Hero from '../components/Hero';
 import Principal from '../components/Principal';
-import ShowModal from '../components/ShowModal';
 import Testimonials from '../components/Testimonials';
 import Timetable from '../components/Timetable';
 
 export default function Home() {
-  const [showModalVisible, setShowModalVisible] = useState(true);
   return (
     <div className="relative">
       <Head>
@@ -20,9 +18,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
-      {showModalVisible && (
-        <ShowModal setShowModalVisible={setShowModalVisible} />
-      )}
+
       <Hero />
       <Timetable />
       <Principal />

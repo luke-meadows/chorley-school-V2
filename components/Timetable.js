@@ -7,7 +7,7 @@ export default function Timetable() {
         dancer. Please ask Claire for details.
       </p>
       <div className="grid  gap-8 sm:grid-cols-1 md:grid-cols-3">
-        <div className="bg-theme-grey rounded-md p-6 md:p-12 ">
+        <div className="border-theme-grey border-4 rounded-md p-6 md:p-12 ">
           <h3 className="text-3xl font-medium">
             Baby Class <br />
             <span className="font-normal text-xl">(Age 3 - 7) - £5.50</span>
@@ -32,7 +32,7 @@ export default function Timetable() {
             </li>
           </ul>
         </div>
-        <div className="bg-theme-grey rounded-md p-6 md:p-12 ">
+        <div className="border-theme-grey border-4 rounded-md p-6 md:p-12 ">
           <h3 className="text-3xl font-medium">
             Junior / Inter Class <br />
             <span className="font-normal text-xl">(Age 7+) - £7.50</span>
@@ -67,7 +67,7 @@ export default function Timetable() {
             </li>
           </ul>
         </div>
-        <div className="bg-theme-grey rounded-md p-6 md:p-12 ">
+        <div className="border-theme-grey border-4 rounded-md p-6 md:p-12 ">
           <h3 className="text-3xl font-medium">
             Adult Tap <br />
             <span className="font-normal text-xl">(Age 14+) - £5.00</span>

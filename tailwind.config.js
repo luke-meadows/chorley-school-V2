@@ -9,7 +9,8 @@ module.exports = {
     extend: {
       colors: {
         'theme-yellow': '#F5A431',
-        'theme-grey': '#0F111A',
+        // 'theme-grey': '#0F111A',
+        'theme-grey': '#393c49',
       },
       screens: {
         sm: '840px',

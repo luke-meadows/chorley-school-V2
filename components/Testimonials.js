@@ -47,7 +47,7 @@ const testimonialsData = [
 
 const TestimonialCard = ({ testimonial }) => {
   return (
-    <div className="bg-theme-grey h-[420px] p-4 md:p-8 rounded-md mb-16 flex flex-col items-center">
+    <div className="border-theme-grey border-4 h-[420px] p-4 md:p-8 rounded-md mb-16 flex flex-col items-center">
       <h1 className="text-2xl font-semibold mb-4">{testimonial.name}</h1>
       <div className="mb-4">
         <i className="icon-star text-theme-yellow" />
