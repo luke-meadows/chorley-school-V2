@@ -32,7 +32,7 @@ export default function AdultTap() {
             advanced tapper.
           </p>
           <p className="text-lg">
-            Classes are held at Wyken Community Centre on Tuesdays 8-9pm £4 per
+            Classes are held at Wyken Community Centre on Tuesdays 8-9pm £5 per
             class (paid in 6 week blocks after a settling in period).
           </p>
           <p className="text-lg">
