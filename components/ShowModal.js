@@ -3,10 +3,10 @@ import ShowImage from '../public/assets/section-imgs/show2.jpg';
 
 export default function ShowModal({ setShowModalVisible }) {
   return (
-    <div className="fixed top-0 z-20 bg-black bg-transparent/70 h-full w-full">
+    <div className="fixed top-0 z-20 bg-black  h-full w-full">
       <div
         className="h-[90vh] w-[90vw] fixed top-[5vh] left-[5vw] rounded-md text-white flex flex-col items-center justify-center text-center gap-y-8 px-8 py-12 bg-cover bg-center relative z-20"
-        style={{ backgroundImage: `url(${ShowImage.src})` }}
+        style={{ backgroundImage: `url(${ShowImage.src})`, opacity: '0.7' }}
       >
         <h2 className="text-xl md:text-2xl">
           The Chorley School of Dance Presents....
