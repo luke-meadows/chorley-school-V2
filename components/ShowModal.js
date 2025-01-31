@@ -12,7 +12,7 @@ export default function ShowModal({ setShowModalVisible }) {
           <h2 className="text-xl md:text-2xl">
             The Chorley School of Dance Presents....
           </h2>
-          <h3 className="text-4xl md:text-6xl">Chapter 23</h3>
+          <h3 className="text-4xl md:text-6xl">Chapter 33</h3>
           <p>
             An evening of entertainment for the whole family. A fantastic
             selection of music, song and dance. Come and see the pupils of
