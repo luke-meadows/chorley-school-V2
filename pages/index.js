@@ -19,9 +19,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
-      {showModalVisible && (
+      {/* {showModalVisible && (
         <ShowModal setShowModalVisible={setShowModalVisible} />
-      )}
+      )} */}
       <Hero />
       <Timetable />
       <Principal />
